@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.AspNet.Membership.OpenAuth.ru</id>
+    <version>1.0.1</version>
+    <title>Русские ресурсы Microsoft DotNetOpenAuth ASP.NET Membership</title>
+    <authors>Microsoft</authors>
+    <owners>Microsoft</owners>
+    <licenseUrl>http://www.microsoft.com/web/webpi/eula/WebDeveloperTools_1_eula_RUS.htm</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Этот пакет содержит русские вспомогательные сборки для ASP.NET DotNetOpen Membership.</description>
+    <summary>Русские ресурсы для пакета Microsoft.AspNet.Membership.OpenAuth</summary>
+    <language>ru</language>
+    <tags>Microsoft AspNet OpenId OAuth authentication</tags>
+    <dependencies>
+      <dependency id="Microsoft.AspNet.Membership.OpenAuth" version="[1.0.1]" />
+    </dependencies>
+  </metadata>
+</package>
